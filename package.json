@@ -1,0 +1,25 @@
+{
+  "name": "final-enaniye",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yosef-Asnake/Final_Enaniye.git"
+  },
+  "author": "Yosef Asnake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yosef-Asnake/Final_Enaniye/issues"
+  },
+  "homepage": "https://github.com/Yosef-Asnake/Final_Enaniye#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "save-dev": "0.0.1-security"
+  }
+}
